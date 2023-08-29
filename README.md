@@ -1,4 +1,4 @@
-# tag_prediction
+# Tag Prediction
 
 In this project, we predict tags for the site Stack Overflow. As a part of our project for IBM x SmartInterz's HackChallenge
 
