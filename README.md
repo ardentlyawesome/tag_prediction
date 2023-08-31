@@ -1,3 +1,4 @@
+
 # Tag Prediction
 
 In this project, we predict tags for the site Stack Overflow. As a part of our project for IBM x SmartInterz's HackChallenge
@@ -44,6 +45,11 @@ Here,
 - Then we used GridSearchCV to search through the best parameter values from the given set of grid of parameters.
 - We then have the confusion matrix which helps in performance measurement of the classification.
 - Finally we print the top 10 feature names for the tags. 
+
+
+## FLOWCHART
+
+![Flowchart](/Flowchart.png)
 
 
 ## CONCLUSION
